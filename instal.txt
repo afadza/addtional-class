@@ -1,0 +1,6 @@
+1. npm install -g typescript
+2. tsc --version
+3. npm i -g ts-node
+
+# Cara menjalankan :
+1. ts-node name file
